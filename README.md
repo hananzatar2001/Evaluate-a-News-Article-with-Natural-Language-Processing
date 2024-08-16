@@ -8,11 +8,11 @@ The “Evaluating News Articles Using Natural Language Processing” project is 
 - Start the application: 'npm run start'
 - Open your browser and navigate to 'http://localhost:8000'.
 - In the box, write one of the following words:
-1- Picard
-2-Janeway
-3-Kirk
-4-Archer
-5-Georgiou
+ - 1-Picard
+ - 2-Janeway
+ - 3-Kirk
+ - 4-Archer
+ - 5-Georgiou
 
 This is how the result appears
 ![image](https://github.com/user-attachments/assets/bde8f89b-70c1-4843-ac42-bf84e40c3a06)
